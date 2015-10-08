@@ -13,3 +13,9 @@ This project is a demo of how we're using GitHub at RCL (YMMV!)
 
 ### Other
 - We may need some more coffee
+
+### Helpful Resources
+
+- README Referances
+  - [Markdown Basics](https://help.github.com/articles/markdown-basics/)
+  - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
