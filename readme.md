@@ -13,3 +13,10 @@ This project is a demo of how we're using GitHub at RCL (YMMV!)
 
 ### Other
 - We may need some more coffee
+
+### Demo Steps
+1. Sean creates new file and **syncs/pushes**
+2. Nate **pulls** and edits file
+3. Nate **pushes**
+4. Sean **syncs/pulls**
+5. Nate and Sean edit the same file
